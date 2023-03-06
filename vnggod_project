@@ -31,13 +31,19 @@
 "versionDescription": "Xoá Youtube Gốc Trước Khi Cài, Xem & Tải video"},
 
 {"name": "DiuTube",
+"developerName": "Creative",
 "version": "18.01.6",
+"versionDate": "2023-03-04T15:35:00+07:00",
+"size": 106950000,
 "downloadURL": "https://dl.dropboxusercontent.com/s/jsibf8mq3lg298h/DiuTube_18.01.6.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Cercube.png",
 "versionDescription": "Xoá Youtube Gốc Trước Khi Cài"},
 
 {"name": "Spotify Vip",
+"developerName": "Creative",
 "version": "8.8.6",
+"versionDate": "2023-03-04T15:35:00+07:00",
+"size": 57010000,
 "downloadURL": "https://dl.dropboxusercontent.com/s/a5u81ldov9fceck/SpoTify_8.8.6.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Spotify.png"},
 
