@@ -2,13 +2,17 @@
 	"name": "VNG GOD CREATIVE",
 	"apps": [
 
-{"name": "GOD Safe",
+{
+"name": "GOD Safe",
+"bundleIdentifier": "p3.xyz.yyyue.esign",
 "version": "2.1.16",
+"versionDate": "2023-02-25T22:30:00+08:00",
 "downloadURL": "https://dl.dropbox.com/s/s49sneg7eokkcec/GOD%20Safe_2.4.16.ipa?dl=0",
 "iconURL": "https://raw.githubusercontent.com/VngGodCreative/icon/main/icon.png",
-"versionDescription": "Update antiban"},
+"versionDescription": "Update antiban\nsupport for ios16.3.1"},
 
-{"name": "GOD Full",
+{
+"name": "GOD Full",
 "version": "2.1.16",
 "downloadURL": "https://dl.dropbox.com/s/auqobjkvt9bz2u0/GOD%20Full_2.4.16.ipa?dl=0",
 "iconURL": "https://dl.dropbox.com/s/wvqlaqzn11xbp5r/GOD%20Full_2.4.16.ipa?dl=0",
