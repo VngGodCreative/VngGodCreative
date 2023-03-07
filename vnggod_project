@@ -75,18 +75,6 @@
 "iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/Camscaner.png",
 "versionDescription": ""},
 
-{"name": "Polish Vip",
-"version": "1.4.2.00000000000000000",
-"downloadURL": "https://dl.dropboxusercontent.com/s/kxsy3c0ao1jvrig/Polish_Vip_1.4.2.ipa?dl=0",
-"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Polish.png",
-"versionDescription": "Trình Sửa Ảnh"},
-
-{"name": "Carbon Vip",
-"version": "12.1.00000000000000000",
-"downloadURL": "https://dl.dropboxusercontent.com/s/zbz5ewd59kjbtrr/CARBON_VIP_12.1.ipa?dl=0",
-"iconURL": "https://raw.githubusercontent.com/Nguyenhuyhoan/icons/main/Carbon.png",
-"versionDescription": "Trình Sửa Ảnh"},
-
 {"name": "XingTu Vip",
 "version": "7.3.0.00000000000000000",
 "downloadURL": "https://dl.dropboxusercontent.com/s/xr69xg8mocomcrt/Xingtu_7.3.0.ipa?dl=0",
@@ -108,17 +96,6 @@
 "downloadURL": "https://dl.dropboxusercontent.com/s/4tva5okqz3vgsks/KineMaster_4.16.2.ipa?dl=0",
 "iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/KineMaster.png",
 "versionDescription": "Chỉnh sửa video"},
-
-{"name": "Dramas ++",
-"version": "4.0.00000000000000",
-"downloadURL": "https://dl.dropboxusercontent.com/s/yzo9pgb6b5lz67s/Dramas_Flic_4.0.ipa?dl=0",
-"iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/Dramas.png",
-"versionDescription": "Chỉnh sửa video"},
-
-{"name": "Bazaart++",
-"version": "9.5.1.00000000000000000",
-"downloadURL": "https://dl.dropboxusercontent.com/s/q9lfn7iq4b6szqb/Bazaart_9.5.1.ipa?dl=0",
-"iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/Bazaart.png"},
 
 {"name": "AppCake",
 "version": "0.0000000000000000000",
@@ -152,24 +129,6 @@
 "downloadURL": "https://dl.dropboxusercontent.com/s/090jushvv48ukol/Instagram_115.0.ipa?dl=0",
 "iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/Instagram.png"},
 
-{"name": "PlayerXtreme Vip",
-"version": "8.7.00000000000000000000",
-"downloadURL": "https://dl.dropboxusercontent.com/s/14aftcf12h9gyps/PlayerXtreme_8.7.ipa?dl=0",
-"iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/PlayerEtreme.png",
-"versionDescription": "Trình xem Video, Tải video Youtube"},
-
-{"name": "Wallpapers Vip",
-"version": "1.5.3.00000000000000000000",
-"downloadURL": "https://dl.dropboxusercontent.com/s/fvh3jz6edryjlfz/Wallpapers_1.5.3__5886310274679443115.ipa?dl=0",
-"iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/Wallpapers.png",
-"versionDescription": ""},
-
-{"name": "Zeo Vip",
-"version": "1.90.0000000000000000000",
-"downloadURL": "https://dl.dropboxusercontent.com/s/9jutgzndbwqun4e/Netflix_Crack_1.1.0.ipa?dl=0",
-"iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/Zeo.png",
-"versionDescription": "Trình xem Video"},
-
 {"name": "Gbox",
 "version": "3.7.30000000000000000000",
 "downloadURL": "https://dl.dropboxusercontent.com/s/y2gm9vv75irhh7e/GBox_3.7.3.ipa?dl=0",
@@ -179,20 +138,5 @@
 "version": "1.0.00000000000000000",
 "downloadURL": "https://dl.dropboxusercontent.com/s/lrn197wy608acnc/Scarlet_1.0.ipa?dl=0",
 "iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/Scarlet.png"},
-
-{"name": "Delta",
-"version": "1.1.2.0000000000000000",
-"downloadURL": "https://dl.dropboxusercontent.com/s/ptb1r47e1xncl1b/Delta_1.1.2.ipa?dl=0",
-"iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/Delta.png"},
-
-{"name": "GBA4IOS",
-"version": "2.1.00000000000000000",
-"downloadURL": "https://dl.dropboxusercontent.com/s/k6yjxepz81oy5xf/GBA4iOS_2.1_go_retro.ipa?dl=0",
-"iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/GBA4IOS.png"},
-
-{"name": "Trình Tải IPA Từ Web",
-"version": "2.0.1.000000000000000",
-"downloadURL": "https://dl.dropboxusercontent.com/s/3i7frzu9h55idap/Trinh_Tai_IPA_2.0.1.ipa?dl=0",
-"iconURL": "https://github.com/Nguyenhuyhoan/icons/raw/main/Trinh_tai_ipa.png"}
 
 ]}
